@@ -1,3 +1,6 @@
+#  Contain Duplicate  code in Python 
+# This is famous leetcode problem
+
 def contains_duplicate_bruteforce(nums):
     n = len(nums)
 
