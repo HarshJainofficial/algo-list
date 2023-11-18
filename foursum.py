@@ -1,3 +1,5 @@
+# THIS IS FOURSUM FAMOUS QUESTION BASED ON SUM PROBLEM
+
 def fourSum(nums, target):
     nums.sort()
     result = []
