@@ -2,9 +2,10 @@
 
 # Linear Approach 
 
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-      res = 0 
+      res = 0    # res is used to a lot max area of the container 
       l , r = 0 , len(height) - 1 
       while l < r:
         area = ( r - l) * min(height[l] , height[r]) 
