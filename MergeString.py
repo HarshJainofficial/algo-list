@@ -1,3 +1,5 @@
+# This is Famous leetcode problem solution along with example
+
 from io import StringIO
 
 def merge_alternately(word1, word2):
