@@ -1,4 +1,5 @@
 # THIS IS FOURSUM FAMOUS QUESTION BASED ON SUM PROBLEM
+# Mostly Based on Two Sum Concept
 
 def fourSum(nums, target):
     nums.sort()
