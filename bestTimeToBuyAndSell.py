@@ -1,3 +1,4 @@
+# Best Time To Buy And Sell 
 def max_profit(prices):
     if not prices or len(prices) == 1:
         return 0
