@@ -1,5 +1,5 @@
 # This is Famous leetcode problem solution along with example
-
+#Merge String is famous problem 
 from io import StringIO
 
 def merge_alternately(word1, word2):
