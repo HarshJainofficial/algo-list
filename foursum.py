@@ -4,7 +4,8 @@
 def fourSum(nums, target):
     nums.sort()
     result = []
-    
+
+    # nested for loop
     for i in range(len(nums) - 3):
         if i > 0 and nums[i] == nums[i - 1]:
             continue
